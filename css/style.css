@@ -1,0 +1,12 @@
+:root {
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+    --gray-color: #00000066;
+    --primary-color: #FF0000;
+    --white-color-transparent: #FFFFFF33;
+    --black-color-transparent: #00000040;
+    --primary-color--transparent: #FF00004D;
+    --dark-gray-color: #6A6A6A;
+    --dark-black-color: #28272C;
+    /* TODO: add missing colors */
+}
